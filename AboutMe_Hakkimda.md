@@ -10,4 +10,4 @@
 - Şu anda, bir bilgi işlem departmanında sistem yöneticisi ve programcı olarak çalışıyorum.
 - Özel olarak web sitesi tasarımı ve geliştirmesi, yazılım geliştirme, havacılık, pilotaj, vb. konularla ilgileniyorum.
 - Şu anda, ASP.net MVC ve bootstrap kullanarak web tabanlı yazılım geliştirme öğreniyorum.
-- Profilimde yer alan e-posta asresi vasıtasıyla bana ulaşabilirsiniz.
+- Profilimde yer alan e-posta adresi vasıtasıyla bana ulaşabilirsiniz.
